@@ -18,7 +18,7 @@ let's see if the enemy becomes an ally.
 | day | topic | project |
 | --- | --- | --- |
 | 00 | introduction | hello javascript |
-| 01 | | |
+| 01 | JavaScript Fundamentals | Text Statistics Analyzer| 
 | 02 | | |
 | 03 | | |
 
